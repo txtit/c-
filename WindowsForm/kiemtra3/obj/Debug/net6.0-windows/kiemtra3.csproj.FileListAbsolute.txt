@@ -1,0 +1,17 @@
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\kiemtra3.csproj.AssemblyReference.cache
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\kiemtra3.Form1.resources
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\kiemtra3.csproj.GenerateResource.cache
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\kiemtra3.GeneratedMSBuildEditorConfig.editorconfig
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\kiemtra3.AssemblyInfoInputs.cache
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\kiemtra3.AssemblyInfo.cs
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\kiemtra3.csproj.CoreCompileInputs.cache
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\bin\Debug\net6.0-windows\kiemtra3.exe
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\bin\Debug\net6.0-windows\kiemtra3.deps.json
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\bin\Debug\net6.0-windows\kiemtra3.runtimeconfig.json
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\bin\Debug\net6.0-windows\kiemtra3.dll
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\bin\Debug\net6.0-windows\kiemtra3.pdb
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\kiemtra3.dll
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\refint\kiemtra3.dll
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\kiemtra3.pdb
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\kiemtra3.genruntimeconfig.cache
+G:\CODE\C#\trực quan\WindowsForm\kiemtra3\obj\Debug\net6.0-windows\ref\kiemtra3.dll

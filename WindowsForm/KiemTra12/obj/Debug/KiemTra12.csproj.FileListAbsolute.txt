@@ -1,0 +1,8 @@
+G:\CODE\C#\trực quan\WindowsForm\KiemTra12\bin\Debug\KiemTra12.exe.config
+G:\CODE\C#\trực quan\WindowsForm\KiemTra12\bin\Debug\KiemTra12.exe
+G:\CODE\C#\trực quan\WindowsForm\KiemTra12\bin\Debug\KiemTra12.pdb
+G:\CODE\C#\trực quan\WindowsForm\KiemTra12\obj\Debug\KiemTra12.csproj.AssemblyReference.cache
+G:\CODE\C#\trực quan\WindowsForm\KiemTra12\obj\Debug\KiemTra12.csproj.SuggestedBindingRedirects.cache
+G:\CODE\C#\trực quan\WindowsForm\KiemTra12\obj\Debug\KiemTra12.csproj.CoreCompileInputs.cache
+G:\CODE\C#\trực quan\WindowsForm\KiemTra12\obj\Debug\KiemTra12.exe
+G:\CODE\C#\trực quan\WindowsForm\KiemTra12\obj\Debug\KiemTra12.pdb

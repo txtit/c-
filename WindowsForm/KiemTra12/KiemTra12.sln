@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiemTra12", "KiemTra12.csproj", "{57B276B8-DBA1-4FBD-9BAF-2EA3A8ED4D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2", "..\Bai2\Bai2.csproj", "{91BF7209-FCFF-42EC-9B81-D4F77C00A915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B276B8-DBA1-4FBD-9BAF-2EA3A8ED4D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B276B8-DBA1-4FBD-9BAF-2EA3A8ED4D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B276B8-DBA1-4FBD-9BAF-2EA3A8ED4D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B276B8-DBA1-4FBD-9BAF-2EA3A8ED4D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BF7209-FCFF-42EC-9B81-D4F77C00A915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BF7209-FCFF-42EC-9B81-D4F77C00A915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BF7209-FCFF-42EC-9B81-D4F77C00A915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BF7209-FCFF-42EC-9B81-D4F77C00A915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5F0BB99-FC19-4DFE-9228-43D10664E5D1}
+	EndGlobalSection
+EndGlobal

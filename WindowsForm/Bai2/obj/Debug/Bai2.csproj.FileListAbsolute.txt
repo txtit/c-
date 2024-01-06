@@ -1,0 +1,8 @@
+G:\CODE\C#\trực quan\WindowsForm\Bai2\bin\Debug\Bai2.exe.config
+G:\CODE\C#\trực quan\WindowsForm\Bai2\bin\Debug\Bai2.exe
+G:\CODE\C#\trực quan\WindowsForm\Bai2\bin\Debug\Bai2.pdb
+G:\CODE\C#\trực quan\WindowsForm\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+G:\CODE\C#\trực quan\WindowsForm\Bai2\obj\Debug\Bai2.csproj.SuggestedBindingRedirects.cache
+G:\CODE\C#\trực quan\WindowsForm\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+G:\CODE\C#\trực quan\WindowsForm\Bai2\obj\Debug\Bai2.exe
+G:\CODE\C#\trực quan\WindowsForm\Bai2\obj\Debug\Bai2.pdb

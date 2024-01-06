@@ -1,0 +1,17 @@
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+G:\CODE\C#\trực quan\WindowsForm\MessageBox\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

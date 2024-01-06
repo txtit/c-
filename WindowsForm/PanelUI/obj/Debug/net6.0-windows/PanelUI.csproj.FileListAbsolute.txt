@@ -1,0 +1,17 @@
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\bin\Debug\net6.0-windows\PanelUI.exe
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\bin\Debug\net6.0-windows\PanelUI.deps.json
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\bin\Debug\net6.0-windows\PanelUI.runtimeconfig.json
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\bin\Debug\net6.0-windows\PanelUI.dll
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\bin\Debug\net6.0-windows\PanelUI.pdb
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\PanelUI.csproj.AssemblyReference.cache
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\PanelUI.Form1.resources
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\PanelUI.csproj.GenerateResource.cache
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\PanelUI.GeneratedMSBuildEditorConfig.editorconfig
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\PanelUI.AssemblyInfoInputs.cache
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\PanelUI.AssemblyInfo.cs
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\PanelUI.csproj.CoreCompileInputs.cache
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\PanelUI.dll
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\refint\PanelUI.dll
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\PanelUI.pdb
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\PanelUI.genruntimeconfig.cache
+G:\CODE\C#\trực quan\WindowsForm\PanelUI\obj\Debug\net6.0-windows\ref\PanelUI.dll

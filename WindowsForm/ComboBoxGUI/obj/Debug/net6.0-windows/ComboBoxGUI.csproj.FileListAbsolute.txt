@@ -1,0 +1,17 @@
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\bin\Debug\net6.0-windows\ComboBoxGUI.exe
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\bin\Debug\net6.0-windows\ComboBoxGUI.deps.json
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\bin\Debug\net6.0-windows\ComboBoxGUI.runtimeconfig.json
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\bin\Debug\net6.0-windows\ComboBoxGUI.dll
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\bin\Debug\net6.0-windows\ComboBoxGUI.pdb
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\ComboBoxGUI.csproj.AssemblyReference.cache
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\ComboBoxGUI.Form1.resources
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\ComboBoxGUI.csproj.GenerateResource.cache
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\ComboBoxGUI.GeneratedMSBuildEditorConfig.editorconfig
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\ComboBoxGUI.AssemblyInfoInputs.cache
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\ComboBoxGUI.AssemblyInfo.cs
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\ComboBoxGUI.csproj.CoreCompileInputs.cache
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\ComboBoxGUI.dll
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\refint\ComboBoxGUI.dll
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\ComboBoxGUI.pdb
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\ComboBoxGUI.genruntimeconfig.cache
+G:\CODE\C#\trực quan\WindowsForm\ComboBoxGUI\obj\Debug\net6.0-windows\ref\ComboBoxGUI.dll
