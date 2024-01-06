@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BTTH2_LTTQModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="nv">
+    <Key>
+      <PropertyRef Name="maphongvien" />
+    </Key>
+    <Property Name="maphongvien" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="hoten" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="gioitinh" Type="Boolean" />
+    <Property Name="sodienthoai" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ngayvaolam" Type="DateTime" Precision="3" />
+    <Property Name="phucap" Type="Double" />
+    <Property Name="sogiolamthem" Type="Int32" />
+  </EntityType>
+  <EntityType Name="thucung">
+    <Key>
+      <PropertyRef Name="madon" />
+    </Key>
+    <Property Name="madon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="tenthucung" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="chungloai" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="cannang" Type="Int32" />
+    <Property Name="ngaynhan" Type="DateTime" Precision="0" />
+    <Property Name="tinhtrang" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="chiphithuocdieutri" Type="Double" />
+    <Property Name="songay" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="BTTH2_LTTQEntities8" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="nvs" EntityType="Self.nv" />
+    <EntitySet Name="thucungs" EntityType="Self.thucung" />
+  </EntityContainer>
+</Schema>

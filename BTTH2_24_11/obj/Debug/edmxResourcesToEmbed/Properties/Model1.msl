@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BTTH2_LTTQModelStoreContainer" CdmEntityContainer="BTTH2_LTTQEntities8">
+    <EntitySetMapping Name="nvs">
+      <EntityTypeMapping TypeName="BTTH2_LTTQModel.nv">
+        <MappingFragment StoreEntitySet="nv">
+          <ScalarProperty Name="maphongvien" ColumnName="maphongvien" />
+          <ScalarProperty Name="hoten" ColumnName="hoten" />
+          <ScalarProperty Name="gioitinh" ColumnName="gioitinh" />
+          <ScalarProperty Name="sodienthoai" ColumnName="sodienthoai" />
+          <ScalarProperty Name="ngayvaolam" ColumnName="ngayvaolam" />
+          <ScalarProperty Name="phucap" ColumnName="phucap" />
+          <ScalarProperty Name="sogiolamthem" ColumnName="sogiolamthem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="thucungs">
+      <EntityTypeMapping TypeName="BTTH2_LTTQModel.thucung">
+        <MappingFragment StoreEntitySet="thucung">
+          <ScalarProperty Name="madon" ColumnName="madon" />
+          <ScalarProperty Name="tenthucung" ColumnName="tenthucung" />
+          <ScalarProperty Name="chungloai" ColumnName="chungloai" />
+          <ScalarProperty Name="cannang" ColumnName="cannang" />
+          <ScalarProperty Name="ngaynhan" ColumnName="ngaynhan" />
+          <ScalarProperty Name="tinhtrang" ColumnName="tinhtrang" />
+          <ScalarProperty Name="chiphithuocdieutri" ColumnName="chiphithuocdieutri" />
+          <ScalarProperty Name="songay" ColumnName="songay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

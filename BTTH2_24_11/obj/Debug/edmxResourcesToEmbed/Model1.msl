@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BTTH2_LTTQModelStoreContainer" CdmEntityContainer="BTTH2_LTTQEntities1">
+    <EntitySetMapping Name="nvbanhangs">
+      <EntityTypeMapping TypeName="BTTH2_LTTQModel.nvbanhang">
+        <MappingFragment StoreEntitySet="nvbanhang">
+          <ScalarProperty Name="manhanvien" ColumnName="manhanvien" />
+          <ScalarProperty Name="hoten" ColumnName="hoten" />
+          <ScalarProperty Name="gioitinh" ColumnName="gioitinh" />
+          <ScalarProperty Name="sodienthoai" ColumnName="sodienthoai" />
+          <ScalarProperty Name="ngayvaolam" ColumnName="ngayvaolam" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

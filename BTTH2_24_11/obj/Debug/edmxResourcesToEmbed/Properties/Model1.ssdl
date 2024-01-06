@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BTTH2_LTTQModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="nv">
+    <Key>
+      <PropertyRef Name="maphongvien" />
+    </Key>
+    <Property Name="maphongvien" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="hoten" Type="nvarchar" MaxLength="50" />
+    <Property Name="gioitinh" Type="bit" />
+    <Property Name="sodienthoai" Type="varchar" MaxLength="50" />
+    <Property Name="ngayvaolam" Type="datetime" />
+    <Property Name="phucap" Type="float" />
+    <Property Name="sogiolamthem" Type="int" />
+  </EntityType>
+  <EntityType Name="thucung">
+    <Key>
+      <PropertyRef Name="madon" />
+    </Key>
+    <Property Name="madon" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="tenthucung" Type="nvarchar" MaxLength="50" />
+    <Property Name="chungloai" Type="nvarchar" MaxLength="50" />
+    <Property Name="cannang" Type="int" />
+    <Property Name="ngaynhan" Type="date" />
+    <Property Name="tinhtrang" Type="nvarchar" MaxLength="50" />
+    <Property Name="chiphithuocdieutri" Type="float" />
+    <Property Name="songay" Type="int" />
+  </EntityType>
+  <EntityContainer Name="BTTH2_LTTQModelStoreContainer">
+    <EntitySet Name="nv" EntityType="Self.nv" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="thucung" EntityType="Self.thucung" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

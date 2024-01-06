@@ -1,0 +1,27 @@
+G:\CODE\C#\trực quan\BTTH21_11\bin\Debug\BTTH24_11.exe.config
+G:\CODE\C#\trực quan\BTTH21_11\bin\Debug\BTTH24_11.exe
+G:\CODE\C#\trực quan\BTTH21_11\bin\Debug\BTTH24_11.pdb
+G:\CODE\C#\trực quan\BTTH21_11\obj\Debug\BTTH24_11.csproj.AssemblyReference.cache
+G:\CODE\C#\trực quan\BTTH21_11\obj\Debug\BTTH24_11.csproj.SuggestedBindingRedirects.cache
+G:\CODE\C#\trực quan\BTTH21_11\obj\Debug\BTTH21_11.Form1.resources
+G:\CODE\C#\trực quan\BTTH21_11\obj\Debug\BTTH24_11.Properties.Resources.resources
+G:\CODE\C#\trực quan\BTTH21_11\obj\Debug\BTTH24_11.csproj.GenerateResource.cache
+G:\CODE\C#\trực quan\BTTH21_11\obj\Debug\BTTH24_11.csproj.CoreCompileInputs.cache
+G:\CODE\C#\trực quan\BTTH21_11\obj\Debug\BTTH24_11.exe
+G:\CODE\C#\trực quan\BTTH21_11\obj\Debug\BTTH24_11.pdb
+D:\c#\app\BTTH2_24_11\bin\Debug\BTTH24_11.exe.config
+D:\c#\app\BTTH2_24_11\bin\Debug\BTTH24_11.exe
+D:\c#\app\BTTH2_24_11\bin\Debug\BTTH24_11.pdb
+D:\c#\app\BTTH2_24_11\obj\Debug\BTTH24_11.csproj.AssemblyReference.cache
+D:\c#\app\BTTH2_24_11\obj\Debug\BTTH24_11.csproj.SuggestedBindingRedirects.cache
+D:\c#\app\BTTH2_24_11\obj\Debug\BTTH21_11.Form1.resources
+D:\c#\app\BTTH2_24_11\obj\Debug\BTTH24_11.Properties.Resources.resources
+D:\c#\app\BTTH2_24_11\obj\Debug\BTTH24_11.csproj.GenerateResource.cache
+D:\c#\app\BTTH2_24_11\obj\Debug\BTTH24_11.csproj.CoreCompileInputs.cache
+D:\c#\app\BTTH2_24_11\obj\Debug\BTTH24_11.exe
+D:\c#\app\BTTH2_24_11\obj\Debug\BTTH24_11.pdb
+D:\c#\app\BTTH2_24_11\bin\Debug\EntityFramework.dll
+D:\c#\app\BTTH2_24_11\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\app\BTTH2_24_11\bin\Debug\EntityFramework.xml
+D:\c#\app\BTTH2_24_11\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\app\BTTH2_24_11\obj\Debug\BTTH24_11.csproj.CopyComplete
