@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="QuanLyRapPhimEntities">
+    <EntitySetMapping Name="RAPPHIMs">
+      <EntityTypeMapping TypeName="Model.RAPPHIM">
+        <MappingFragment StoreEntitySet="RAPPHIM">
+          <ScalarProperty Name="MADON" ColumnName="MADON" />
+          <ScalarProperty Name="TENPHIM" ColumnName="TENPHIM" />
+          <ScalarProperty Name="QUOCGIA" ColumnName="QUOCGIA" />
+          <ScalarProperty Name="THELOAI" ColumnName="THELOAI" />
+          <ScalarProperty Name="NGAYCONGCHIEU" ColumnName="NGAYCONGCHIEU" />
+          <ScalarProperty Name="DOTUOIQUYDINH" ColumnName="DOTUOIQUYDINH" />
+          <ScalarProperty Name="PHUTHUGHE" ColumnName="PHUTHUGHE" />
+          <ScalarProperty Name="PHUTHUSUATDATBIET" ColumnName="PHUTHUSUATDATBIET" />
+          <ScalarProperty Name="DOANHTHU" ColumnName="DOANHTHU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

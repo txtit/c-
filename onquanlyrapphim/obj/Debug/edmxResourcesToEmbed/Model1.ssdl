@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="RAPPHIM">
+    <Key>
+      <PropertyRef Name="MADON" />
+    </Key>
+    <Property Name="MADON" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="TENPHIM" Type="nvarchar" MaxLength="50" />
+    <Property Name="QUOCGIA" Type="nvarchar" MaxLength="50" />
+    <Property Name="THELOAI" Type="nvarchar" MaxLength="50" />
+    <Property Name="NGAYCONGCHIEU" Type="datetime" />
+    <Property Name="DOTUOIQUYDINH" Type="int" />
+    <Property Name="PHUTHUGHE" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="PHUTHUSUATDATBIET" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="DOANHTHU" Type="decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="RAPPHIM" EntityType="Self.RAPPHIM" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,16 @@
+G:\CODE\C#\trực quan\onquanlyrapphim\bin\Debug\onquanlyrapphim.exe.config
+G:\CODE\C#\trực quan\onquanlyrapphim\bin\Debug\onquanlyrapphim.exe
+G:\CODE\C#\trực quan\onquanlyrapphim\bin\Debug\onquanlyrapphim.pdb
+G:\CODE\C#\trực quan\onquanlyrapphim\obj\Debug\onquanlyrapphim.csproj.AssemblyReference.cache
+G:\CODE\C#\trực quan\onquanlyrapphim\obj\Debug\onquanlyrapphim.csproj.SuggestedBindingRedirects.cache
+G:\CODE\C#\trực quan\onquanlyrapphim\obj\Debug\onquanlyrapphim.Form1.resources
+G:\CODE\C#\trực quan\onquanlyrapphim\obj\Debug\onquanlyrapphim.Properties.Resources.resources
+G:\CODE\C#\trực quan\onquanlyrapphim\obj\Debug\onquanlyrapphim.csproj.GenerateResource.cache
+G:\CODE\C#\trực quan\onquanlyrapphim\obj\Debug\onquanlyrapphim.csproj.CoreCompileInputs.cache
+G:\CODE\C#\trực quan\onquanlyrapphim\obj\Debug\onquanlyrapphim.exe
+G:\CODE\C#\trực quan\onquanlyrapphim\obj\Debug\onquanlyrapphim.pdb
+G:\CODE\C#\trực quan\onquanlyrapphim\bin\Debug\EntityFramework.dll
+G:\CODE\C#\trực quan\onquanlyrapphim\bin\Debug\EntityFramework.SqlServer.dll
+G:\CODE\C#\trực quan\onquanlyrapphim\bin\Debug\EntityFramework.xml
+G:\CODE\C#\trực quan\onquanlyrapphim\bin\Debug\EntityFramework.SqlServer.xml
+G:\CODE\C#\trực quan\onquanlyrapphim\obj\Debug\onquanlyrapphim.csproj.CopyComplete

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="RAPPHIM">
+    <Key>
+      <PropertyRef Name="MADON" />
+    </Key>
+    <Property Name="MADON" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TENPHIM" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="QUOCGIA" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="THELOAI" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NGAYCONGCHIEU" Type="DateTime" Precision="3" />
+    <Property Name="DOTUOIQUYDINH" Type="Int32" />
+    <Property Name="PHUTHUGHE" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="PHUTHUSUATDATBIET" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="DOANHTHU" Type="Decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityContainer Name="QuanLyRapPhimEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="RAPPHIMs" EntityType="Self.RAPPHIM" />
+  </EntityContainer>
+</Schema>
